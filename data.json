@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-08T16:52:52Z",
+ "generated_at": "2026-10-17T12:45:08Z",
  "account": "927302",
  "strategy": "G2 - Gold Dual-Session Hunter",
  "source": "broker-verified positions (magic 777001), BlackBull MT5",
  "stats": {
-  "net_pl": 1560.28,
-  "trades": 37,
-  "wins": 15,
-  "losses": 22,
-  "win_rate": 40.5,
-  "profit_factor": 1.29,
-  "avg_win": 463.29,
-  "avg_loss": -244.96,
+  "net_pl": 2935.77,
+  "trades": 51,
+  "wins": 23,
+  "losses": 28,
+  "win_rate": 45.1,
+  "profit_factor": 1.43,
+  "avg_win": 427.35,
+  "avg_loss": -246.19,
   "best": 1056.3,
   "worst": -258.48,
-  "max_dd": 1248.51,
+  "max_dd": 1381.07,
   "open_pl": 0,
   "open_count": 0
  },
@@ -26,8 +26,8 @@
   },
   {
    "month": "2026-10",
-   "pl": -567.59,
-   "trades": 12
+   "pl": 807.9,
+   "trades": 26
   }
  ],
  "curve": [
@@ -252,9 +252,233 @@
    "date": "2026-10-08",
    "pl": -254.64,
    "cum": 1560.28
+  },
+  {
+   "i": 38,
+   "date": "2026-10-09",
+   "pl": -250.92,
+   "cum": 1309.36
+  },
+  {
+   "i": 39,
+   "date": "2026-10-09",
+   "pl": 505.92,
+   "cum": 1815.28
+  },
+  {
+   "i": 40,
+   "date": "2026-10-09",
+   "pl": -249.9,
+   "cum": 1565.38
+  },
+  {
+   "i": 41,
+   "date": "2026-10-12",
+   "pl": -250.5,
+   "cum": 1314.88
+  },
+  {
+   "i": 42,
+   "date": "2026-10-12",
+   "pl": 582.78,
+   "cum": 1897.66
+  },
+  {
+   "i": 43,
+   "date": "2026-10-13",
+   "pl": 98.42,
+   "cum": 1996.08
+  },
+  {
+   "i": 44,
+   "date": "2026-10-13",
+   "pl": 464.96,
+   "cum": 2461.04
+  },
+  {
+   "i": 45,
+   "date": "2026-10-13",
+   "pl": 517.86,
+   "cum": 2978.9
+  },
+  {
+   "i": 46,
+   "date": "2026-10-14",
+   "pl": -247.86,
+   "cum": 2731.04
+  },
+  {
+   "i": 47,
+   "date": "2026-10-14",
+   "pl": 241.6,
+   "cum": 2972.64
+  },
+  {
+   "i": 48,
+   "date": "2026-10-15",
+   "pl": 24.65,
+   "cum": 2997.29
+  },
+  {
+   "i": 49,
+   "date": "2026-10-15",
+   "pl": -255.0,
+   "cum": 2742.29
+  },
+  {
+   "i": 50,
+   "date": "2026-10-16",
+   "pl": -250.04,
+   "cum": 2492.25
+  },
+  {
+   "i": 51,
+   "date": "2026-10-16",
+   "pl": 443.52,
+   "cum": 2935.77
   }
  ],
  "trades": [
+  {
+   "ticket": 224412682,
+   "symbol": "XAUUSDp",
+   "dir": "LONG",
+   "opened": "2026-10-16 10:25",
+   "closed": "2026-10-16 11:16",
+   "pl": 443.52,
+   "ledger_pl": 492.85,
+   "parts": null
+  },
+  {
+   "ticket": 224406297,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-16 10:10",
+   "closed": "2026-10-16 10:32",
+   "pl": -250.04,
+   "ledger_pl": 0.0,
+   "parts": null
+  },
+  {
+   "ticket": 224005465,
+   "symbol": "XAUUSDp",
+   "dir": "LONG",
+   "opened": "2026-10-15 18:35",
+   "closed": "2026-10-15 20:08",
+   "pl": -255.0,
+   "ledger_pl": -254.07,
+   "parts": null
+  },
+  {
+   "ticket": 223150539,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-14 16:40",
+   "closed": "2026-10-15 00:05",
+   "pl": 24.65,
+   "ledger_pl": 43.75,
+   "parts": null
+  },
+  {
+   "ticket": 222952568,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-14 10:30",
+   "closed": "2026-10-14 14:05",
+   "pl": 241.6,
+   "ledger_pl": 0.0,
+   "parts": null
+  },
+  {
+   "ticket": 222985196,
+   "symbol": "XAUUSDp",
+   "dir": "LONG",
+   "opened": "2026-10-14 11:45",
+   "closed": "2026-10-14 14:02",
+   "pl": -247.86,
+   "ledger_pl": -256.59,
+   "parts": null
+  },
+  {
+   "ticket": 222502179,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-13 16:55",
+   "closed": "2026-10-13 21:00",
+   "pl": 517.86,
+   "ledger_pl": 496.47,
+   "parts": null
+  },
+  {
+   "ticket": 222480276,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-13 16:20",
+   "closed": "2026-10-13 17:57",
+   "pl": 464.96,
+   "ledger_pl": 0.0,
+   "parts": null
+  },
+  {
+   "ticket": 221900692,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-12 17:50",
+   "closed": "2026-10-13 00:05",
+   "pl": 98.42,
+   "ledger_pl": 118.6,
+   "parts": null
+  },
+  {
+   "ticket": 221695499,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-12 11:45",
+   "closed": "2026-10-12 16:21",
+   "pl": 582.78,
+   "ledger_pl": 0.0,
+   "parts": null
+  },
+  {
+   "ticket": 221838511,
+   "symbol": "XAUUSDp",
+   "dir": "LONG",
+   "opened": "2026-10-12 16:15",
+   "closed": "2026-10-12 16:21",
+   "pl": -250.5,
+   "ledger_pl": -258.24,
+   "parts": null
+  },
+  {
+   "ticket": 221011785,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-09 16:40",
+   "closed": "2026-10-09 17:51",
+   "pl": -249.9,
+   "ledger_pl": -254.29,
+   "parts": null
+  },
+  {
+   "ticket": 220915568,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-09 12:40",
+   "closed": "2026-10-09 15:08",
+   "pl": 505.92,
+   "ledger_pl": 493.87,
+   "parts": null
+  },
+  {
+   "ticket": 220883125,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-09 11:25",
+   "closed": "2026-10-09 12:16",
+   "pl": -250.92,
+   "ledger_pl": -258.46,
+   "parts": null
+  },
   {
    "ticket": 220205841,
    "symbol": "XAUUSDp",
@@ -630,5 +854,5 @@
   }
  ],
  "open_trades": [],
- "excluded_unclassified": 18
+ "excluded_unclassified": 26
 }
