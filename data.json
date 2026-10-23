@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T07:59:00Z",
+ "generated_at": "2026-10-23T08:29:02Z",
  "account": "927302",
  "strategy": "G2 - Gold Dual-Session Hunter",
  "source": "broker-verified positions (magic 777001), BlackBull MT5",
@@ -934,5 +934,5 @@
   }
  ],
  "open_trades": [],
- "excluded_unclassified": 29
+ "excluded_unclassified": 30
 }
