@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-30T08:29:02Z",
+ "generated_at": "2026-10-30T08:59:00Z",
  "account": "927302",
  "strategy": "G2 - Gold Dual-Session Hunter",
  "source": "broker-verified positions (magic 777001), BlackBull MT5",
  "stats": {
-  "net_pl": 3321.94,
-  "trades": 63,
-  "wins": 27,
+  "net_pl": 3598.96,
+  "trades": 64,
+  "wins": 28,
   "losses": 36,
-  "win_rate": 42.9,
-  "profit_factor": 1.4,
-  "avg_win": 431.71,
+  "win_rate": 43.8,
+  "profit_factor": 1.43,
+  "avg_win": 426.18,
   "avg_loss": -231.51,
   "best": 1056.3,
   "worst": -258.48,
@@ -26,8 +26,8 @@
   },
   {
    "month": "2026-10",
-   "pl": 1194.07,
-   "trades": 38
+   "pl": 1471.09,
+   "trades": 39
   }
  ],
  "curve": [
@@ -408,9 +408,25 @@
    "date": "2026-10-30",
    "pl": -13.33,
    "cum": 3321.94
+  },
+  {
+   "i": 64,
+   "date": "2026-10-30",
+   "pl": 277.02,
+   "cum": 3598.96
   }
  ],
  "trades": [
+  {
+   "ticket": 231685033,
+   "symbol": "XAUUSDp",
+   "dir": "LONG",
+   "opened": "2026-10-30 11:15",
+   "closed": "2026-10-30 11:50",
+   "pl": 277.02,
+   "ledger_pl": -255.46,
+   "parts": null
+  },
   {
    "ticket": 231656689,
    "symbol": "XAUUSDp",
@@ -1046,5 +1062,5 @@
   }
  ],
  "open_trades": [],
- "excluded_unclassified": 34
+ "excluded_unclassified": 33
 }
