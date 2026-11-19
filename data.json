@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-11-19T09:59:00Z",
+ "generated_at": "2026-11-19T10:00:08Z",
  "account": "927302",
  "strategy": "G2 - Gold Dual-Session Hunter",
  "source": "broker-verified positions (magic 777001), BlackBull MT5",
  "stats": {
-  "net_pl": 3612.84,
-  "trades": 88,
-  "wins": 36,
-  "losses": 52,
-  "win_rate": 40.9,
-  "profit_factor": 1.3,
-  "avg_win": 439.19,
-  "avg_loss": -234.58,
-  "best": 1056.3,
-  "worst": -307.3,
-  "max_dd": 1478.23,
+  "net_pl": 4072.46,
+  "trades": 89,
+  "wins": 38,
+  "losses": 51,
+  "win_rate": 42.7,
+  "profit_factor": 1.34,
+  "avg_win": 423.85,
+  "avg_loss": -235.96,
+  "best": 822.0,
+  "worst": -309.4,
+  "max_dd": 1499.71,
   "open_pl": 0,
   "open_count": 0
  },
  "monthly": [
   {
    "month": "2026-09",
-   "pl": 2127.87,
+   "pl": 1877.99,
    "trades": 25
   },
   {
    "month": "2026-10",
-   "pl": 1471.09,
-   "trades": 39
+   "pl": 2223.49,
+   "trades": 40
   },
   {
    "month": "2026-11",
-   "pl": 13.88,
+   "pl": -29.02,
    "trades": 24
   }
  ],
@@ -39,530 +39,536 @@
   {
    "i": 1,
    "date": "2026-09-14",
-   "pl": 1056.3,
-   "cum": 1056.3
+   "pl": 539.24,
+   "cum": 539.24
   },
   {
    "i": 2,
    "date": "2026-09-14",
-   "pl": 478.42,
-   "cum": 1534.72
+   "pl": 477.28,
+   "cum": 1016.52
   },
   {
    "i": 3,
    "date": "2026-09-15",
-   "pl": -250.86,
-   "cum": 1283.86
+   "pl": -253.08,
+   "cum": 763.44
   },
   {
    "i": 4,
    "date": "2026-09-15",
-   "pl": -251.9,
-   "cum": 1031.96
+   "pl": -253.22,
+   "cum": 510.22
   },
   {
    "i": 5,
    "date": "2026-09-15",
-   "pl": 176.4,
-   "cum": 1208.36
+   "pl": 175.56,
+   "cum": 685.78
   },
   {
    "i": 6,
    "date": "2026-09-16",
-   "pl": 512.96,
-   "cum": 1721.32
+   "pl": 511.28,
+   "cum": 1197.06
   },
   {
    "i": 7,
    "date": "2026-09-16",
-   "pl": -256.69,
-   "cum": 1464.63
+   "pl": -257.83,
+   "cum": 939.23
   },
   {
    "i": 8,
    "date": "2026-09-17",
-   "pl": -243.45,
-   "cum": 1221.18
+   "pl": -244.35,
+   "cum": 694.88
   },
   {
    "i": 9,
    "date": "2026-09-18",
-   "pl": 630.7,
-   "cum": 1851.88
+   "pl": 628.66,
+   "cum": 1323.54
   },
   {
    "i": 10,
    "date": "2026-09-18",
-   "pl": -253.65,
-   "cum": 1598.23
+   "pl": -254.79,
+   "cum": 1068.75
   },
   {
    "i": 11,
    "date": "2026-09-18",
-   "pl": 534.82,
-   "cum": 2133.05
+   "pl": 533.5,
+   "cum": 1602.25
   },
   {
    "i": 12,
    "date": "2026-09-21",
-   "pl": -250.8,
-   "cum": 1882.25
+   "pl": -253.08,
+   "cum": 1349.17
   },
   {
    "i": 13,
    "date": "2026-09-21",
-   "pl": -249.15,
-   "cum": 1633.1
+   "pl": 49.28,
+   "cum": 1398.45
   },
   {
    "i": 14,
    "date": "2026-09-21",
-   "pl": -252.7,
-   "cum": 1380.4
+   "pl": -251.13,
+   "cum": 1147.32
   },
   {
    "i": 15,
    "date": "2026-09-23",
-   "pl": 461.04,
-   "cum": 1841.44
+   "pl": 459.6,
+   "cum": 1606.92
   },
   {
    "i": 16,
    "date": "2026-09-24",
-   "pl": -248.38,
-   "cum": 1593.06
+   "pl": -249.7,
+   "cum": 1357.22
   },
   {
    "i": 17,
    "date": "2026-09-24",
-   "pl": -253.05,
-   "cum": 1340.01
+   "pl": -255.15,
+   "cum": 1102.07
   },
   {
    "i": 18,
    "date": "2026-09-25",
-   "pl": -249.22,
-   "cum": 1090.79
+   "pl": -251.26,
+   "cum": 850.81
   },
   {
    "i": 19,
    "date": "2026-09-25",
-   "pl": 526.0,
-   "cum": 1616.79
+   "pl": 524.5,
+   "cum": 1375.31
   },
   {
    "i": 20,
    "date": "2026-09-28",
-   "pl": -258.48,
-   "cum": 1358.31
+   "pl": -259.2,
+   "cum": 1116.11
   },
   {
    "i": 21,
    "date": "2026-09-28",
-   "pl": 461.89,
-   "cum": 1820.2
+   "pl": 461.11,
+   "cum": 1577.22
   },
   {
    "i": 22,
-   "date": "2026-09-29",
-   "pl": 267.12,
-   "cum": 2087.32
+   "date": "2026-09-28",
+   "pl": 266.28,
+   "cum": 1843.5
   },
   {
    "i": 23,
    "date": "2026-09-29",
-   "pl": -247.52,
-   "cum": 1839.8
+   "pl": -249.56,
+   "cum": 1593.94
   },
   {
    "i": 24,
    "date": "2026-09-29",
-   "pl": -246.21,
-   "cum": 1593.59
+   "pl": -247.95,
+   "cum": 1345.99
   },
   {
    "i": 25,
    "date": "2026-09-29",
-   "pl": 534.28,
-   "cum": 2127.87
+   "pl": 532.0,
+   "cum": 1877.99
   },
   {
    "i": 26,
    "date": "2026-10-01",
-   "pl": 562.56,
-   "cum": 2690.43
+   "pl": 561.12,
+   "cum": 2439.11
   },
   {
    "i": 27,
    "date": "2026-10-01",
-   "pl": -250.4,
-   "cum": 2440.03
+   "pl": -251.6,
+   "cum": 2187.51
   },
   {
    "i": 28,
    "date": "2026-10-01",
-   "pl": -254.64,
-   "cum": 2185.39
+   "pl": -256.08,
+   "cum": 1931.43
   },
   {
    "i": 29,
    "date": "2026-10-02",
-   "pl": -249.86,
-   "cum": 1935.53
+   "pl": -251.72,
+   "cum": 1679.71
   },
   {
    "i": 30,
    "date": "2026-10-05",
-   "pl": -248.97,
-   "cum": 1686.56
+   "pl": -251.55,
+   "cum": 1428.16
   },
   {
    "i": 31,
    "date": "2026-10-05",
-   "pl": -244.64,
-   "cum": 1441.92
+   "pl": -245.96,
+   "cum": 1182.2
   },
   {
    "i": 32,
    "date": "2026-10-05",
-   "pl": 245.8,
-   "cum": 1687.72
+   "pl": 244.6,
+   "cum": 1426.8
   },
   {
    "i": 33,
    "date": "2026-10-07",
-   "pl": 480.06,
-   "cum": 2167.78
+   "pl": 477.54,
+   "cum": 1904.34
   },
   {
    "i": 34,
-   "date": "2026-10-08",
-   "pl": -125.97,
-   "cum": 2041.81
+   "date": "2026-10-07",
+   "pl": 822.0,
+   "cum": 2726.34
   },
   {
    "i": 35,
-   "date": "2026-10-08",
-   "pl": -247.95,
-   "cum": 1793.86
+   "date": "2026-10-07",
+   "pl": -127.11,
+   "cum": 2599.23
   },
   {
    "i": 36,
    "date": "2026-10-08",
-   "pl": 21.06,
-   "cum": 1814.92
+   "pl": -250.65,
+   "cum": 2348.58
   },
   {
    "i": 37,
    "date": "2026-10-08",
-   "pl": -254.64,
-   "cum": 1560.28
+   "pl": 19.98,
+   "cum": 2368.56
   },
   {
    "i": 38,
-   "date": "2026-10-09",
-   "pl": -250.92,
-   "cum": 1309.36
+   "date": "2026-10-08",
+   "pl": -256.08,
+   "cum": 2112.48
   },
   {
    "i": 39,
    "date": "2026-10-09",
-   "pl": 505.92,
-   "cum": 1815.28
+   "pl": -253.08,
+   "cum": 1859.4
   },
   {
    "i": 40,
    "date": "2026-10-09",
-   "pl": -249.9,
-   "cum": 1565.38
+   "pl": 504.06,
+   "cum": 2363.46
   },
   {
    "i": 41,
-   "date": "2026-10-12",
-   "pl": -250.5,
-   "cum": 1314.88
+   "date": "2026-10-09",
+   "pl": -251.16,
+   "cum": 2112.3
   },
   {
    "i": 42,
    "date": "2026-10-12",
-   "pl": 582.78,
-   "cum": 1897.66
+   "pl": -253.5,
+   "cum": 1858.8
   },
   {
    "i": 43,
-   "date": "2026-10-13",
-   "pl": 98.42,
-   "cum": 1996.08
+   "date": "2026-10-12",
+   "pl": 580.8,
+   "cum": 2439.6
   },
   {
    "i": 44,
-   "date": "2026-10-13",
-   "pl": 464.96,
-   "cum": 2461.04
+   "date": "2026-10-12",
+   "pl": 96.14,
+   "cum": 2535.74
   },
   {
    "i": 45,
    "date": "2026-10-13",
-   "pl": 517.86,
-   "cum": 2978.9
+   "pl": 463.04,
+   "cum": 2998.78
   },
   {
    "i": 46,
-   "date": "2026-10-14",
-   "pl": -247.86,
-   "cum": 2731.04
+   "date": "2026-10-13",
+   "pl": 516.78,
+   "cum": 3515.56
   },
   {
    "i": 47,
    "date": "2026-10-14",
-   "pl": 241.6,
-   "cum": 2972.64
+   "pl": -249.9,
+   "cum": 3265.66
   },
   {
    "i": 48,
-   "date": "2026-10-15",
-   "pl": 24.65,
-   "cum": 2997.29
+   "date": "2026-10-14",
+   "pl": 240.4,
+   "cum": 3506.06
   },
   {
    "i": 49,
-   "date": "2026-10-15",
-   "pl": -255.0,
-   "cum": 2742.29
+   "date": "2026-10-14",
+   "pl": 24.35,
+   "cum": 3530.41
   },
   {
    "i": 50,
-   "date": "2026-10-16",
-   "pl": -250.04,
-   "cum": 2492.25
+   "date": "2026-10-15",
+   "pl": -256.2,
+   "cum": 3274.21
   },
   {
    "i": 51,
    "date": "2026-10-16",
-   "pl": 443.52,
-   "cum": 2935.77
+   "pl": -252.32,
+   "cum": 3021.89
   },
   {
    "i": 52,
-   "date": "2026-10-21",
-   "pl": -247.8,
-   "cum": 2687.97
+   "date": "2026-10-16",
+   "pl": 441.54,
+   "cum": 3463.43
   },
   {
    "i": 53,
    "date": "2026-10-21",
-   "pl": -249.2,
-   "cum": 2438.77
+   "pl": -249.9,
+   "cum": 3213.53
   },
   {
    "i": 54,
    "date": "2026-10-21",
-   "pl": 183.52,
-   "cum": 2622.29
+   "pl": -252.56,
+   "cum": 2960.97
   },
   {
    "i": 55,
-   "date": "2026-10-22",
-   "pl": -251.56,
-   "cum": 2370.73
+   "date": "2026-10-21",
+   "pl": 181.3,
+   "cum": 3142.27
   },
   {
    "i": 56,
    "date": "2026-10-22",
-   "pl": 548.39,
-   "cum": 2919.12
+   "pl": -253.84,
+   "cum": 2888.43
   },
   {
    "i": 57,
-   "date": "2026-10-23",
-   "pl": 517.11,
-   "cum": 3436.23
+   "date": "2026-10-22",
+   "pl": 546.53,
+   "cum": 3434.96
   },
   {
    "i": 58,
    "date": "2026-10-23",
-   "pl": -248.64,
-   "cum": 3187.59
+   "pl": 515.13,
+   "cum": 3950.09
   },
   {
    "i": 59,
    "date": "2026-10-23",
-   "pl": 578.0,
-   "cum": 3765.59
+   "pl": -250.32,
+   "cum": 3699.77
   },
   {
    "i": 60,
-   "date": "2026-10-26",
-   "pl": -255.57,
-   "cum": 3510.02
+   "date": "2026-10-23",
+   "pl": 576.5,
+   "cum": 4276.27
   },
   {
    "i": 61,
-   "date": "2026-10-29",
-   "pl": -135.63,
-   "cum": 3374.39
+   "date": "2026-10-26",
+   "pl": -256.83,
+   "cum": 4019.44
   },
   {
    "i": 62,
    "date": "2026-10-29",
-   "pl": -39.12,
-   "cum": 3335.27
+   "pl": -137.61,
+   "cum": 3881.83
   },
   {
    "i": 63,
-   "date": "2026-10-30",
-   "pl": -13.33,
-   "cum": 3321.94
+   "date": "2026-10-29",
+   "pl": -40.56,
+   "cum": 3841.27
   },
   {
    "i": 64,
    "date": "2026-10-30",
-   "pl": 277.02,
-   "cum": 3598.96
+   "pl": -15.19,
+   "cum": 3826.08
   },
   {
    "i": 65,
-   "date": "2026-11-02",
-   "pl": -218.96,
-   "cum": 3380.0
+   "date": "2026-10-30",
+   "pl": 275.4,
+   "cum": 4101.48
   },
   {
    "i": 66,
    "date": "2026-11-02",
-   "pl": 472.32,
-   "cum": 3852.32
+   "pl": -221.72,
+   "cum": 3879.76
   },
   {
    "i": 67,
-   "date": "2026-11-04",
-   "pl": -158.65,
-   "cum": 3693.67
+   "date": "2026-11-02",
+   "pl": 469.86,
+   "cum": 4349.62
   },
   {
    "i": 68,
    "date": "2026-11-04",
-   "pl": -296.6,
-   "cum": 3397.07
+   "pl": -159.79,
+   "cum": 4189.83
   },
   {
    "i": 69,
-   "date": "2026-11-05",
-   "pl": -228.29,
-   "cum": 3168.78
+   "date": "2026-11-04",
+   "pl": -297.8,
+   "cum": 3892.03
   },
   {
    "i": 70,
    "date": "2026-11-05",
-   "pl": -276.69,
-   "cum": 2892.09
+   "pl": -230.51,
+   "cum": 3661.52
   },
   {
    "i": 71,
    "date": "2026-11-05",
-   "pl": 501.16,
-   "cum": 3393.25
+   "pl": -278.07,
+   "cum": 3383.45
   },
   {
    "i": 72,
-   "date": "2026-11-06",
-   "pl": 464.72,
-   "cum": 3857.97
+   "date": "2026-11-05",
+   "pl": 499.84,
+   "cum": 3883.29
   },
   {
    "i": 73,
    "date": "2026-11-06",
-   "pl": -304.07,
-   "cum": 3553.9
+   "pl": 462.5,
+   "cum": 4345.79
   },
   {
    "i": 74,
-   "date": "2026-11-09",
-   "pl": 541.8,
-   "cum": 4095.7
+   "date": "2026-11-06",
+   "pl": -304.85,
+   "cum": 4040.94
   },
   {
    "i": 75,
    "date": "2026-11-09",
-   "pl": 467.17,
-   "cum": 4562.87
+   "pl": 540.0,
+   "cum": 4580.94
   },
   {
    "i": 76,
-   "date": "2026-11-11",
-   "pl": 528.2,
-   "cum": 5091.07
+   "date": "2026-11-09",
+   "pl": 465.31,
+   "cum": 5046.25
   },
   {
    "i": 77,
    "date": "2026-11-11",
-   "pl": -197.64,
-   "cum": 4893.43
+   "pl": 525.92,
+   "cum": 5572.17
   },
   {
    "i": 78,
-   "date": "2026-11-13",
-   "pl": -239.83,
-   "cum": 4653.6
+   "date": "2026-11-11",
+   "pl": -199.8,
+   "cum": 5372.37
   },
   {
    "i": 79,
    "date": "2026-11-13",
-   "pl": -264.6,
-   "cum": 4389.0
+   "pl": -241.57,
+   "cum": 5130.8
   },
   {
    "i": 80,
-   "date": "2026-11-16",
-   "pl": -269.39,
-   "cum": 4119.61
+   "date": "2026-11-13",
+   "pl": -265.5,
+   "cum": 4865.3
   },
   {
    "i": 81,
    "date": "2026-11-16",
-   "pl": 396.09,
-   "cum": 4515.7
+   "pl": -271.25,
+   "cum": 4594.05
   },
   {
    "i": 82,
-   "date": "2026-11-17",
-   "pl": 506.4,
-   "cum": 5022.1
+   "date": "2026-11-16",
+   "pl": 394.47,
+   "cum": 4988.52
   },
   {
    "i": 83,
    "date": "2026-11-17",
-   "pl": -220.77,
-   "cum": 4801.33
+   "pl": 502.8,
+   "cum": 5491.32
   },
   {
    "i": 84,
    "date": "2026-11-17",
-   "pl": -222.6,
-   "cum": 4578.73
+   "pl": -222.75,
+   "cum": 5268.57
   },
   {
    "i": 85,
-   "date": "2026-11-18",
-   "pl": -181.26,
-   "cum": 4397.47
+   "date": "2026-11-17",
+   "pl": -223.5,
+   "cum": 5045.07
   },
   {
    "i": 86,
    "date": "2026-11-18",
-   "pl": -307.3,
-   "cum": 4090.17
+   "pl": -183.54,
+   "cum": 4861.53
   },
   {
    "i": 87,
    "date": "2026-11-18",
-   "pl": -201.12,
-   "cum": 3889.05
+   "pl": -309.4,
+   "cum": 4552.13
   },
   {
    "i": 88,
+   "date": "2026-11-18",
+   "pl": -201.84,
+   "cum": 4350.29
+  },
+  {
+   "i": 89,
    "date": "2026-11-19",
-   "pl": -276.21,
-   "cum": 3612.84
+   "pl": -277.83,
+   "cum": 4072.46
   }
  ],
  "trades": [
@@ -570,886 +576,804 @@
    "ticket": 238811347,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-19 10:55",
-   "closed": "2026-11-19 11:25",
-   "pl": -276.21,
-   "ledger_pl": -255.38,
-   "parts": null
+   "opened": "2026-11-19 08:55",
+   "closed": "2026-11-19 09:25",
+   "pl": -277.83,
+   "ledger_pl": null
   },
   {
    "ticket": 238292739,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-18 15:15",
-   "closed": "2026-11-18 17:25",
-   "pl": -201.12,
-   "ledger_pl": -252.46,
-   "parts": null
+   "opened": "2026-11-18 13:15",
+   "closed": "2026-11-18 15:25",
+   "pl": -201.84,
+   "ledger_pl": null
   },
   {
    "ticket": 238199440,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-18 11:15",
-   "closed": "2026-11-18 11:25",
-   "pl": -307.3,
-   "ledger_pl": -256.97,
-   "parts": null
+   "opened": "2026-11-18 09:15",
+   "closed": "2026-11-18 09:25",
+   "pl": -309.4,
+   "ledger_pl": null
   },
   {
    "ticket": 238167095,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-18 10:00",
-   "closed": "2026-11-18 10:05",
-   "pl": -181.26,
-   "ledger_pl": -257.69,
-   "parts": null
+   "opened": "2026-11-18 08:00",
+   "closed": "2026-11-18 08:05",
+   "pl": -183.54,
+   "ledger_pl": null
   },
   {
    "ticket": 237788948,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-17 17:00",
-   "closed": "2026-11-17 17:35",
-   "pl": -222.6,
-   "ledger_pl": -253.05,
-   "parts": null
+   "opened": "2026-11-17 15:00",
+   "closed": "2026-11-17 15:35",
+   "pl": -223.5,
+   "ledger_pl": null
   },
   {
    "ticket": 237647598,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-17 11:45",
-   "closed": "2026-11-17 12:06",
-   "pl": -220.77,
-   "ledger_pl": -256.51,
-   "parts": null
+   "opened": "2026-11-17 09:45",
+   "closed": "2026-11-17 10:06",
+   "pl": -222.75,
+   "ledger_pl": null
   },
   {
    "ticket": 237594932,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-17 09:30",
-   "closed": "2026-11-17 10:04",
-   "pl": 506.4,
-   "ledger_pl": 487.95,
-   "parts": null
+   "opened": "2026-11-17 07:30",
+   "closed": "2026-11-17 08:04",
+   "pl": 502.8,
+   "ledger_pl": null
   },
   {
    "ticket": 237175928,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-16 15:30",
-   "closed": "2026-11-16 16:48",
-   "pl": 396.09,
-   "ledger_pl": 494.67,
-   "parts": null
+   "opened": "2026-11-16 13:30",
+   "closed": "2026-11-16 14:48",
+   "pl": 394.47,
+   "ledger_pl": null
   },
   {
    "ticket": 237047157,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-16 10:30",
-   "closed": "2026-11-16 10:50",
-   "pl": -269.39,
-   "ledger_pl": -256.13,
-   "parts": null
+   "opened": "2026-11-16 08:30",
+   "closed": "2026-11-16 08:50",
+   "pl": -271.25,
+   "ledger_pl": null
   },
   {
    "ticket": 236424633,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-13 16:25",
-   "closed": "2026-11-13 18:01",
-   "pl": -264.6,
-   "ledger_pl": -253.02,
-   "parts": null
+   "opened": "2026-11-13 14:25",
+   "closed": "2026-11-13 16:01",
+   "pl": -265.5,
+   "ledger_pl": null
   },
   {
    "ticket": 236306441,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-13 10:55",
-   "closed": "2026-11-13 12:49",
-   "pl": -239.83,
-   "ledger_pl": -255.77,
-   "parts": null
+   "opened": "2026-11-13 08:55",
+   "closed": "2026-11-13 10:49",
+   "pl": -241.57,
+   "ledger_pl": null
   },
   {
    "ticket": 235688624,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-11 18:00",
-   "closed": "2026-11-11 19:50",
-   "pl": -197.64,
-   "ledger_pl": -257.26,
-   "parts": null
+   "opened": "2026-11-11 16:00",
+   "closed": "2026-11-11 17:50",
+   "pl": -199.8,
+   "ledger_pl": null
   },
   {
    "ticket": 235558613,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-11 09:40",
-   "closed": "2026-11-11 11:22",
-   "pl": 528.2,
-   "ledger_pl": 492.49,
-   "parts": null
+   "opened": "2026-11-11 07:40",
+   "closed": "2026-11-11 09:22",
+   "pl": 525.92,
+   "ledger_pl": null
   },
   {
    "ticket": 234892382,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-09 16:35",
-   "closed": "2026-11-09 18:50",
-   "pl": 467.17,
-   "ledger_pl": 493.73,
-   "parts": null
+   "opened": "2026-11-09 14:35",
+   "closed": "2026-11-09 16:50",
+   "pl": 465.31,
+   "ledger_pl": null
   },
   {
    "ticket": 234793039,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-09 11:35",
-   "closed": "2026-11-09 14:27",
-   "pl": 541.8,
-   "ledger_pl": 494.06,
-   "parts": null
+   "opened": "2026-11-09 09:35",
+   "closed": "2026-11-09 12:27",
+   "pl": 540.0,
+   "ledger_pl": null
   },
   {
    "ticket": 234347768,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-06 15:35",
-   "closed": "2026-11-06 20:40",
-   "pl": -304.07,
-   "ledger_pl": -252.54,
-   "parts": null
+   "opened": "2026-11-06 13:35",
+   "closed": "2026-11-06 18:40",
+   "pl": -304.85,
+   "ledger_pl": null
   },
   {
    "ticket": 234270944,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-06 11:35",
-   "closed": "2026-11-06 13:59",
-   "pl": 464.72,
-   "ledger_pl": 492.69,
-   "parts": null
+   "opened": "2026-11-06 09:35",
+   "closed": "2026-11-06 11:59",
+   "pl": 462.5,
+   "ledger_pl": null
   },
   {
    "ticket": 233834629,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-05 16:40",
-   "closed": "2026-11-05 16:45",
-   "pl": 501.16,
-   "ledger_pl": 495.56,
-   "parts": null
+   "opened": "2026-11-05 14:40",
+   "closed": "2026-11-05 14:45",
+   "pl": 499.84,
+   "ledger_pl": null
   },
   {
    "ticket": 233805462,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-05 15:45",
-   "closed": "2026-11-05 16:41",
-   "pl": -276.69,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-11-05 13:45",
+   "closed": "2026-11-05 14:41",
+   "pl": -278.07,
+   "ledger_pl": null
   },
   {
    "ticket": 233739071,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-05 11:25",
-   "closed": "2026-11-05 13:15",
-   "pl": -228.29,
-   "ledger_pl": -257.43,
-   "parts": null
+   "opened": "2026-11-05 09:25",
+   "closed": "2026-11-05 11:15",
+   "pl": -230.51,
+   "ledger_pl": null
   },
   {
    "ticket": 233394426,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-11-04 16:55",
-   "closed": "2026-11-04 18:00",
-   "pl": -296.6,
-   "ledger_pl": -253.93,
-   "parts": null
+   "opened": "2026-11-04 14:55",
+   "closed": "2026-11-04 16:00",
+   "pl": -297.8,
+   "ledger_pl": null
   },
   {
    "ticket": 233359569,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-04 15:40",
-   "closed": "2026-11-04 17:07",
-   "pl": -158.65,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-11-04 13:40",
+   "closed": "2026-11-04 15:07",
+   "pl": -159.79,
+   "ledger_pl": null
   },
   {
    "ticket": 232384385,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-02 15:25",
-   "closed": "2026-11-02 15:36",
-   "pl": 472.32,
-   "ledger_pl": 491.84,
-   "parts": null
+   "opened": "2026-11-02 13:25",
+   "closed": "2026-11-02 13:36",
+   "pl": 469.86,
+   "ledger_pl": null
   },
   {
    "ticket": 232294322,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-11-02 10:40",
-   "closed": "2026-11-02 12:29",
-   "pl": -218.96,
-   "ledger_pl": -259.11,
-   "parts": null
+   "opened": "2026-11-02 08:40",
+   "closed": "2026-11-02 10:29",
+   "pl": -221.72,
+   "ledger_pl": null
   },
   {
    "ticket": 231685033,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-30 11:15",
-   "closed": "2026-10-30 11:50",
-   "pl": 277.02,
-   "ledger_pl": -255.46,
-   "parts": null
+   "opened": "2026-10-30 08:15",
+   "closed": "2026-10-30 08:50",
+   "pl": 275.4,
+   "ledger_pl": null
   },
   {
    "ticket": 231656689,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-30 10:30",
-   "closed": "2026-10-30 10:31",
-   "pl": -13.33,
-   "ledger_pl": -256.27,
-   "parts": null
+   "opened": "2026-10-30 07:30",
+   "closed": "2026-10-30 07:31",
+   "pl": -15.19,
+   "ledger_pl": null
   },
   {
    "ticket": 231289153,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-29 18:05",
-   "closed": "2026-10-29 18:15",
-   "pl": -39.12,
-   "ledger_pl": -254.8,
-   "parts": null
+   "opened": "2026-10-29 15:05",
+   "closed": "2026-10-29 15:15",
+   "pl": -40.56,
+   "ledger_pl": null
   },
   {
    "ticket": 231006673,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-29 09:40",
-   "closed": "2026-10-29 10:00",
-   "pl": -135.63,
-   "ledger_pl": 493.32,
-   "parts": null
+   "opened": "2026-10-29 06:40",
+   "closed": "2026-10-29 07:00",
+   "pl": -137.61,
+   "ledger_pl": null
   },
   {
    "ticket": 228994752,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-26 09:15",
-   "closed": "2026-10-26 11:51",
-   "pl": -255.57,
-   "ledger_pl": -257.39,
-   "parts": null
+   "opened": "2026-10-26 06:15",
+   "closed": "2026-10-26 08:51",
+   "pl": -256.83,
+   "ledger_pl": null
   },
   {
    "ticket": 228441610,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-23 17:30",
-   "closed": "2026-10-23 18:16",
-   "pl": 578.0,
-   "ledger_pl": 495.45,
-   "parts": null
+   "opened": "2026-10-23 13:30",
+   "closed": "2026-10-23 14:16",
+   "pl": 576.5,
+   "ledger_pl": null
   },
   {
    "ticket": 228403422,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-23 16:25",
-   "closed": "2026-10-23 17:45",
-   "pl": -248.64,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-23 12:25",
+   "closed": "2026-10-23 13:45",
+   "pl": -250.32,
+   "ledger_pl": null
   },
   {
    "ticket": 228289759,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-23 12:25",
-   "closed": "2026-10-23 16:46",
-   "pl": 517.11,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-23 08:25",
+   "closed": "2026-10-23 12:46",
+   "pl": 515.13,
+   "ledger_pl": null
   },
   {
    "ticket": 227691405,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-22 12:35",
-   "closed": "2026-10-22 15:15",
-   "pl": 548.39,
-   "ledger_pl": 494.2,
-   "parts": null
+   "opened": "2026-10-22 08:35",
+   "closed": "2026-10-22 11:15",
+   "pl": 546.53,
+   "ledger_pl": null
   },
   {
    "ticket": 227633467,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-22 10:40",
-   "closed": "2026-10-22 11:08",
-   "pl": -251.56,
-   "ledger_pl": -257.01,
-   "parts": null
+   "opened": "2026-10-22 06:40",
+   "closed": "2026-10-22 07:08",
+   "pl": -253.84,
+   "ledger_pl": null
   },
   {
    "ticket": 226988479,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-21 11:10",
-   "closed": "2026-10-21 13:40",
-   "pl": 183.52,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-21 07:10",
+   "closed": "2026-10-21 09:40",
+   "pl": 181.3,
+   "ledger_pl": null
   },
   {
    "ticket": 227058167,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-21 12:55",
-   "closed": "2026-10-21 13:35",
-   "pl": -249.2,
-   "ledger_pl": -259.42,
-   "parts": null
+   "opened": "2026-10-21 08:55",
+   "closed": "2026-10-21 09:35",
+   "pl": -252.56,
+   "ledger_pl": null
   },
   {
    "ticket": 226970537,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-21 10:35",
-   "closed": "2026-10-21 10:54",
-   "pl": -247.8,
-   "ledger_pl": -256.46,
-   "parts": null
+   "opened": "2026-10-21 06:35",
+   "closed": "2026-10-21 06:54",
+   "pl": -249.9,
+   "ledger_pl": null
   },
   {
    "ticket": 224412682,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-16 10:25",
-   "closed": "2026-10-16 11:16",
-   "pl": 443.52,
-   "ledger_pl": 492.85,
-   "parts": null
+   "opened": "2026-10-16 06:25",
+   "closed": "2026-10-16 07:16",
+   "pl": 441.54,
+   "ledger_pl": null
   },
   {
    "ticket": 224406297,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-16 10:10",
-   "closed": "2026-10-16 10:32",
-   "pl": -250.04,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-16 06:10",
+   "closed": "2026-10-16 06:32",
+   "pl": -252.32,
+   "ledger_pl": null
   },
   {
    "ticket": 224005465,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-15 18:35",
-   "closed": "2026-10-15 20:08",
-   "pl": -255.0,
-   "ledger_pl": -254.07,
-   "parts": null
+   "opened": "2026-10-15 14:35",
+   "closed": "2026-10-15 16:08",
+   "pl": -256.2,
+   "ledger_pl": null
   },
   {
    "ticket": 223150539,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-14 16:40",
-   "closed": "2026-10-15 00:05",
-   "pl": 24.65,
-   "ledger_pl": 43.75,
-   "parts": null
+   "opened": "2026-10-14 12:40",
+   "closed": "2026-10-14 20:05",
+   "pl": 24.35,
+   "ledger_pl": null
   },
   {
    "ticket": 222952568,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-14 10:30",
-   "closed": "2026-10-14 14:05",
-   "pl": 241.6,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-14 06:30",
+   "closed": "2026-10-14 10:05",
+   "pl": 240.4,
+   "ledger_pl": null
   },
   {
    "ticket": 222985196,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-14 11:45",
-   "closed": "2026-10-14 14:02",
-   "pl": -247.86,
-   "ledger_pl": -256.59,
-   "parts": null
+   "opened": "2026-10-14 07:45",
+   "closed": "2026-10-14 10:02",
+   "pl": -249.9,
+   "ledger_pl": null
   },
   {
    "ticket": 222502179,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-13 16:55",
-   "closed": "2026-10-13 21:00",
-   "pl": 517.86,
-   "ledger_pl": 496.47,
-   "parts": null
+   "opened": "2026-10-13 12:55",
+   "closed": "2026-10-13 17:00",
+   "pl": 516.78,
+   "ledger_pl": null
   },
   {
    "ticket": 222480276,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-13 16:20",
-   "closed": "2026-10-13 17:57",
-   "pl": 464.96,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-13 12:20",
+   "closed": "2026-10-13 13:57",
+   "pl": 463.04,
+   "ledger_pl": null
   },
   {
    "ticket": 221900692,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-12 17:50",
-   "closed": "2026-10-13 00:05",
-   "pl": 98.42,
-   "ledger_pl": 118.6,
-   "parts": null
+   "opened": "2026-10-12 13:50",
+   "closed": "2026-10-12 20:05",
+   "pl": 96.14,
+   "ledger_pl": null
   },
   {
    "ticket": 221695499,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-12 11:45",
-   "closed": "2026-10-12 16:21",
-   "pl": 582.78,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-12 07:45",
+   "closed": "2026-10-12 12:21",
+   "pl": 580.8,
+   "ledger_pl": null
   },
   {
    "ticket": 221838511,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-12 16:15",
-   "closed": "2026-10-12 16:21",
-   "pl": -250.5,
-   "ledger_pl": -258.24,
-   "parts": null
+   "opened": "2026-10-12 12:15",
+   "closed": "2026-10-12 12:21",
+   "pl": -253.5,
+   "ledger_pl": null
   },
   {
    "ticket": 221011785,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-09 16:40",
-   "closed": "2026-10-09 17:51",
-   "pl": -249.9,
-   "ledger_pl": -254.29,
-   "parts": null
+   "opened": "2026-10-09 12:40",
+   "closed": "2026-10-09 13:51",
+   "pl": -251.16,
+   "ledger_pl": null
   },
   {
    "ticket": 220915568,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-09 12:40",
-   "closed": "2026-10-09 15:08",
-   "pl": 505.92,
-   "ledger_pl": 493.87,
-   "parts": null
+   "opened": "2026-10-09 08:40",
+   "closed": "2026-10-09 11:08",
+   "pl": 504.06,
+   "ledger_pl": null
   },
   {
    "ticket": 220883125,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-09 11:25",
-   "closed": "2026-10-09 12:16",
-   "pl": -250.92,
-   "ledger_pl": -258.46,
-   "parts": null
+   "opened": "2026-10-09 07:25",
+   "closed": "2026-10-09 08:16",
+   "pl": -253.08,
+   "ledger_pl": null
   },
   {
    "ticket": 220205841,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-08 11:35",
-   "closed": "2026-10-08 12:17",
-   "pl": -254.64,
-   "ledger_pl": -254.5,
-   "parts": null
+   "opened": "2026-10-08 07:35",
+   "closed": "2026-10-08 08:17",
+   "pl": -256.08,
+   "ledger_pl": null
   },
   {
    "ticket": 220181535,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-08 10:45",
-   "closed": "2026-10-08 11:25",
-   "pl": 21.06,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-08 06:45",
+   "closed": "2026-10-08 07:25",
+   "pl": 19.98,
+   "ledger_pl": null
   },
   {
    "ticket": 220190938,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-08 11:05",
-   "closed": "2026-10-08 11:17",
-   "pl": -247.95,
-   "ledger_pl": -257.75,
-   "parts": null
+   "opened": "2026-10-08 07:05",
+   "closed": "2026-10-08 07:17",
+   "pl": -250.65,
+   "ledger_pl": null
   },
   {
    "ticket": 219888346,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-07 19:35",
-   "closed": "2026-10-08 00:05",
-   "pl": -125.97,
-   "ledger_pl": -100.09,
-   "parts": null
+   "opened": "2026-10-07 15:35",
+   "closed": "2026-10-07 20:05",
+   "pl": -127.11,
+   "ledger_pl": null
+  },
+  {
+   "ticket": 219740560,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-10-07 12:20",
+   "closed": "2026-10-07 12:26",
+   "pl": 822.0,
+   "ledger_pl": null
   },
   {
    "ticket": 219719078,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-07 15:31",
-   "closed": "2026-10-07 16:25",
-   "pl": 480.06,
-   "ledger_pl": 493.07,
-   "parts": null
+   "opened": "2026-10-07 11:31",
+   "closed": "2026-10-07 12:25",
+   "pl": 477.54,
+   "ledger_pl": null
   },
   {
    "ticket": 218637576,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-05 17:05",
-   "closed": "2026-10-05 17:50",
-   "pl": 245.8,
-   "ledger_pl": 495.55,
-   "parts": null
+   "opened": "2026-10-05 13:05",
+   "closed": "2026-10-05 13:50",
+   "pl": 244.6,
+   "ledger_pl": null
   },
   {
    "ticket": 218617195,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-05 16:30",
-   "closed": "2026-10-05 17:05",
-   "pl": -244.64,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-05 12:30",
+   "closed": "2026-10-05 13:05",
+   "pl": -245.96,
+   "ledger_pl": null
   },
   {
    "ticket": 218433699,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-05 11:25",
-   "closed": "2026-10-05 11:43",
-   "pl": -248.97,
-   "ledger_pl": -257.46,
-   "parts": null
+   "opened": "2026-10-05 07:25",
+   "closed": "2026-10-05 07:43",
+   "pl": -251.55,
+   "ledger_pl": null
   },
   {
    "ticket": 217675665,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-02 12:35",
-   "closed": "2026-10-02 16:30",
-   "pl": -249.86,
-   "ledger_pl": -255.12,
-   "parts": null
+   "opened": "2026-10-02 08:35",
+   "closed": "2026-10-02 12:30",
+   "pl": -251.72,
+   "ledger_pl": null
   },
   {
    "ticket": 217200259,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-01 18:55",
-   "closed": "2026-10-01 20:07",
-   "pl": -254.64,
-   "ledger_pl": -253.97,
-   "parts": null
+   "opened": "2026-10-01 14:55",
+   "closed": "2026-10-01 16:07",
+   "pl": -256.08,
+   "ledger_pl": null
   },
   {
    "ticket": 217184076,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-10-01 18:35",
-   "closed": "2026-10-01 19:02",
-   "pl": -250.4,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-10-01 14:35",
+   "closed": "2026-10-01 15:02",
+   "pl": -251.6,
+   "ledger_pl": null
   },
   {
    "ticket": 217104461,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-10-01 17:00",
-   "closed": "2026-10-01 18:01",
-   "pl": 562.56,
-   "ledger_pl": 495.59,
-   "parts": null
+   "opened": "2026-10-01 13:00",
+   "closed": "2026-10-01 14:01",
+   "pl": 561.12,
+   "ledger_pl": null
   },
   {
    "ticket": 215523742,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-29 12:20",
-   "closed": "2026-09-29 15:20",
-   "pl": 534.28,
-   "ledger_pl": 492.74,
-   "parts": null
+   "opened": "2026-09-29 08:20",
+   "closed": "2026-09-29 11:20",
+   "pl": 532.0,
+   "ledger_pl": null
   },
   {
    "ticket": 215505257,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-29 11:45",
-   "closed": "2026-09-29 14:09",
-   "pl": -246.21,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-29 07:45",
+   "closed": "2026-09-29 10:09",
+   "pl": -247.95,
+   "ledger_pl": null
   },
   {
    "ticket": 215499024,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-29 11:35",
-   "closed": "2026-09-29 14:09",
-   "pl": -247.52,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-29 07:35",
+   "closed": "2026-09-29 10:09",
+   "pl": -249.56,
+   "ledger_pl": null
   },
   {
    "ticket": 214999932,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-28 18:10",
-   "closed": "2026-09-29 00:05",
-   "pl": 267.12,
-   "ledger_pl": 236.26,
-   "parts": null
+   "opened": "2026-09-28 14:10",
+   "closed": "2026-09-28 20:05",
+   "pl": 266.28,
+   "ledger_pl": null
   },
   {
    "ticket": 214923020,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-28 16:40",
-   "closed": "2026-09-28 18:57",
-   "pl": 461.89,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-28 12:40",
+   "closed": "2026-09-28 14:57",
+   "pl": 461.11,
+   "ledger_pl": null
   },
   {
    "ticket": 214903618,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-28 16:10",
-   "closed": "2026-09-28 16:40",
-   "pl": -258.48,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-28 12:10",
+   "closed": "2026-09-28 12:40",
+   "pl": -259.2,
+   "ledger_pl": null
   },
   {
    "ticket": 214002782,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-25 16:55",
-   "closed": "2026-09-25 17:29",
-   "pl": 526.0,
-   "ledger_pl": 495.16,
-   "parts": null
+   "opened": "2026-09-25 12:55",
+   "closed": "2026-09-25 13:29",
+   "pl": 524.5,
+   "ledger_pl": null
   },
   {
    "ticket": 213842911,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-25 12:05",
-   "closed": "2026-09-25 12:15",
-   "pl": -249.22,
-   "ledger_pl": -255.75,
-   "parts": null
+   "opened": "2026-09-25 08:05",
+   "closed": "2026-09-25 08:15",
+   "pl": -251.26,
+   "ledger_pl": null
   },
   {
    "ticket": 213301389,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-24 18:05",
-   "closed": "2026-09-24 18:21",
-   "pl": -253.05,
-   "ledger_pl": -256.07,
-   "parts": null
+   "opened": "2026-09-24 14:05",
+   "closed": "2026-09-24 14:21",
+   "pl": -255.15,
+   "ledger_pl": null
   },
   {
    "ticket": 212953237,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-24 11:10",
-   "closed": "2026-09-24 12:15",
-   "pl": -248.38,
-   "ledger_pl": -254.39,
-   "parts": null
+   "opened": "2026-09-24 07:10",
+   "closed": "2026-09-24 08:15",
+   "pl": -249.7,
+   "ledger_pl": null
   },
   {
    "ticket": 212192466,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-23 16:30",
-   "closed": "2026-09-23 17:42",
-   "pl": 461.04,
-   "ledger_pl": 494.93,
-   "parts": null
-  },
-  {
-   "ticket": 210102921,
-   "symbol": "XAUUSDp",
-   "dir": "SHORT",
-   "opened": "2026-09-21 13:05",
-   "closed": "2026-09-21 15:34",
-   "pl": -252.7,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-23 12:30",
+   "closed": "2026-09-23 13:42",
+   "pl": 459.6,
+   "ledger_pl": null
   },
   {
    "ticket": 210054954,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-21 12:15",
-   "closed": "2026-09-21 13:32",
-   "pl": -249.15,
-   "ledger_pl": -256.88,
-   "parts": null
+   "opened": "2026-09-21 08:15",
+   "closed": "2026-09-21 09:32",
+   "pl": -251.13,
+   "ledger_pl": null
+  },
+  {
+   "ticket": 210020900,
+   "symbol": "XAUUSDp",
+   "dir": "SHORT",
+   "opened": "2026-09-21 07:40",
+   "closed": "2026-09-21 07:47",
+   "pl": 49.28,
+   "ledger_pl": null
   },
   {
    "ticket": 209972936,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-21 10:40",
-   "closed": "2026-09-21 11:43",
-   "pl": -250.8,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-21 06:40",
+   "closed": "2026-09-21 07:43",
+   "pl": -253.08,
+   "ledger_pl": null
   },
   {
    "ticket": 209201817,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-18 18:40",
-   "closed": "2026-09-18 20:29",
-   "pl": 534.82,
-   "ledger_pl": 495.79,
-   "parts": null
+   "opened": "2026-09-18 14:40",
+   "closed": "2026-09-18 16:29",
+   "pl": 533.5,
+   "ledger_pl": null
   },
   {
    "ticket": 209103413,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-18 17:25",
-   "closed": "2026-09-18 20:29",
-   "pl": -253.65,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-18 13:25",
+   "closed": "2026-09-18 16:29",
+   "pl": -254.79,
+   "ledger_pl": null
   },
   {
    "ticket": 208802800,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-18 12:00",
-   "closed": "2026-09-18 13:45",
-   "pl": 630.7,
-   "ledger_pl": 494.24,
-   "parts": null
+   "opened": "2026-09-18 08:00",
+   "closed": "2026-09-18 09:45",
+   "pl": 628.66,
+   "ledger_pl": null
   },
   {
    "ticket": 208016905,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-17 17:40",
-   "closed": "2026-09-17 18:08",
-   "pl": -243.45,
-   "ledger_pl": -253.16,
-   "parts": null
+   "opened": "2026-09-17 13:40",
+   "closed": "2026-09-17 14:08",
+   "pl": -244.35,
+   "ledger_pl": null
   },
   {
    "ticket": 206851431,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-16 18:40",
-   "closed": "2026-09-16 22:01",
-   "pl": -256.69,
-   "ledger_pl": -253.64,
-   "parts": null
+   "opened": "2026-09-16 14:40",
+   "closed": "2026-09-16 18:01",
+   "pl": -257.83,
+   "ledger_pl": null
   },
   {
    "ticket": 206770785,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-16 17:35",
-   "closed": "2026-09-16 18:04",
-   "pl": 512.96,
-   "ledger_pl": 494.46,
-   "parts": null
+   "opened": "2026-09-16 13:35",
+   "closed": "2026-09-16 14:04",
+   "pl": 511.28,
+   "ledger_pl": null
   },
   {
    "ticket": 205544986,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-15 16:50",
-   "closed": "2026-09-15 22:15",
-   "pl": 176.4,
-   "ledger_pl": 0.0,
-   "parts": null
+   "opened": "2026-09-15 12:50",
+   "closed": "2026-09-15 18:15",
+   "pl": 175.56,
+   "ledger_pl": null
   },
   {
    "ticket": 205700724,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-15 18:25",
-   "closed": "2026-09-15 22:12",
-   "pl": -251.9,
-   "ledger_pl": -254.22,
-   "parts": null
+   "opened": "2026-09-15 14:25",
+   "closed": "2026-09-15 18:12",
+   "pl": -253.22,
+   "ledger_pl": null
   },
   {
    "ticket": 205228222,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-15 10:40",
-   "closed": "2026-09-15 11:41",
-   "pl": -250.86,
-   "ledger_pl": -256.81,
-   "parts": null
+   "opened": "2026-09-15 06:40",
+   "closed": "2026-09-15 07:41",
+   "pl": -253.08,
+   "ledger_pl": null
   },
   {
    "ticket": 204558463,
    "symbol": "XAUUSDp",
    "dir": "LONG",
-   "opened": "2026-09-14 18:45",
-   "closed": "2026-09-14 20:23",
-   "pl": 478.42,
-   "ledger_pl": 496.11,
-   "parts": null
+   "opened": "2026-09-14 14:45",
+   "closed": "2026-09-14 16:23",
+   "pl": 477.28,
+   "ledger_pl": null
   },
   {
-   "ticket": 203958094,
+   "ticket": 203958104,
    "symbol": "XAUUSDp",
    "dir": "SHORT",
-   "opened": "2026-09-14 10:10",
-   "closed": "2026-09-14 11:55",
-   "pl": 1056.3,
-   "ledger_pl": 495.09,
-   "parts": [
-    203958094,
-    203958104
-   ]
+   "opened": "2026-09-14 06:10",
+   "closed": "2026-09-14 07:55",
+   "pl": 539.24,
+   "ledger_pl": null
   }
  ],
  "open_trades": [],
- "excluded_unclassified": 50
+ "excluded_unclassified": 52
 }
